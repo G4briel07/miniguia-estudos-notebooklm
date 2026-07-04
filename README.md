@@ -1,3 +1,4 @@
+[The_Blueprint_of_Progress.pdf](https://github.com/user-attachments/files/29661613/The_Blueprint_of_Progress.pdf)
 # 📚 Miniguia de Estudos com NotebookLM: Henry Ford e o Ford Model T
 
 ## 📖 Sobre o projeto
@@ -22,13 +23,9 @@ O tema escolhido foi **Henry Ford**, o **Ford Model T** e a evolução dos siste
 
 As fontes utilizadas foram adicionadas ao NotebookLM para gerar respostas fundamentadas e apoiar os estudos.
 
-**Fontes utilizadas:**
+** Fontes completa:**
 
-* Fonte 1: *(adicione aqui o link ou nome do PDF)*
-* Fonte 2: *(adicione aqui o link ou nome do PDF)*
-* Fonte 3: *(adicione aqui o link ou nome do PDF)*
-* Fonte 4: *(opcional)*
-* Fonte 5: *(opcional)*
+* Fonte 1: https://notebooklm.google.com/notebook/4e3ae777-076e-4dff-9cad-665b87a2191e
 
 ---
 
